@@ -28,10 +28,11 @@
   <component name="ProjectId" id="1Y1MQLKqMkAQX4qKWuk4Uiwsx4r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="E:/YOTA/mms-project/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GetSuperheroes.Get0002">
+  <component name="RunManager" selected="JUnit.GetSuperheroes.Get0001">
     <configuration name="GetSuperheroes.Get0001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,10 +67,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetSuperheroes.Get0003" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetSuperheroes" />
+      <option name="METHOD_NAME" value="Get0003" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GetSuperheroes.Get0002" />
         <item itemvalue="JUnit.GetSuperheroes.Get0001" />
+        <item itemvalue="JUnit.GetSuperheroes.Get0002" />
+        <item itemvalue="JUnit.GetSuperheroes.Get0003" />
       </list>
     </recent_temporary>
   </component>
@@ -85,5 +97,12 @@
       <updated>1582105629524</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="basePath" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

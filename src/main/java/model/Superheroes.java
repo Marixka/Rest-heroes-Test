@@ -13,9 +13,8 @@ public class Superheroes {
         public String gender;
         public String phone;
 
-        public Superheroes(){
-        }
-
+    public Superheroes(){
+    }
         public Superheroes(Integer id, String fName, String bDate, String city, String mainSkill, String gender, String phone ){
             this.id = id;
             if (fName!= null) this.fullName = fName;
